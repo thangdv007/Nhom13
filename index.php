@@ -144,7 +144,7 @@ include_once('conn.php');
                     <img src="img\telephone.png">&nbsp; Liên hệ: 0899.999.999 - Địa chỉ: Từ Liêm, TP.Hà Nội
                 </p>
                 <p style="color: rgb(153, 0, 0); font-size: 14.5; margin-left: 750px; margin-top: -80px">
-                    <img src="img\light-bulb.png">&nbsp; Thiết kế bởi: Nhóm 9-LTPHP
+                    <img src="img\light-bulb.png">&nbsp; Thiết kế bởi: Nhóm 13
                 </p>
             </div>
 	    
@@ -181,7 +181,7 @@ include_once('conn.php');
                         <img src="img\telephone.png">&nbsp; Liên hệ: 0899.999.999 - Địa chỉ: Từ Liêm, TP.Hà Nội
                     </p>
                     <p style="color: rgb(153, 0, 0); font-size: 14.5; margin-left: 750px; margin-top: -80px">
-                        <img src="img\light-bulb.png">&nbsp; Thiết kế bởi: Nhóm 9-LTPHP
+                        <img src="img\light-bulb.png">&nbsp; Thiết kế bởi: Nhóm 13
                     </p>
                 </div>
             </div>

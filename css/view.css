@@ -1,0 +1,193 @@
+﻿/* các xử lí định dạng riêng cho login_v2.html */
+
+
+.view{
+	height: auto;
+	
+}
+
+.view-title{
+	font-weight: bold;
+}
+
+=================================================================================================
+
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+	.view .text-end{
+		text-align: left !important;
+	}
+	
+	.view .col-md-2, .view .col-md-4, .view .col-md-6, .view .col-4, .view .col-md-8, .view .col-md-11{
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+}
+==================================================================================================
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.view .text-end{
+		text-align: left !important;
+	}
+	
+	.view .col-md-4, .view .col-md-6, .view .col-4, .view .col-md-8, .view .col-md-11{
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+ }
+
+=================================================================================================
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){ 
+
+ }
+
+=================================================================================================
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+
+=================================================================================================
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	
+ }
+
+=================================================================================================
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+	
+}
+
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.table_tc {
+	margin-top: 30px;
+}
+
+.my-custom-scrollbar_tc {
+	position: relative;
+	height: 397px;
+	overflow: auto;
+	background-color: white;
+}
+
+.table-wrapper-scroll-y {
+	display: block;
+}
+
+h3 {
+	color: blue;
+	text-align: center;
+	font-weight: bold;
+}
+
+header {
+	margin-top: -20px;
+	background-image: url("dhcnhn.jpg");
+}
+
+button {
+	background-color: white;
+}
+
+article {
+	border-left: 1px solid gray;
+	overflow: hidden;
+	background-color: white;
+	margin-top: 4px;
+}
+
+th {
+	border: 2px solid black;
+	padding-left: 10px;
+}
+
+* {
+	box-sizing: border-box
+}
+
+body {
+	font-family: "Lato", sans-serif;
+}
+
+/* Style the tab */
+.tab {
+	float: left;
+	border: 1px solid #ccc;
+	background-color: #ccccff;
+	width: 25%;
+	height: 772px;
+}
+
+	/* Style the buttons inside the tab */
+	.tab button {
+		display: block;
+		background-color: #f1f1f1;
+		;
+		color: black;
+		padding: 3px 16px;
+		width: 100%;
+		border: none;
+		outline: none;
+		text-align: left;
+		cursor: pointer;
+		transition: 0.3s;
+		font-size: 17px;
+		color: blue;
+	}
+
+		/* Change background color of buttons on hover */
+		.tab button:hover {
+			background-color: #ddd;
+		}
+
+		/* Create an active/current "tab button" class */
+		.tab button.active {
+			background-color: white;
+		}
+
+/* Style the tab content */
+.tabcontent {
+	float: left;
+	padding: 0px 12px;
+	border: 1px solid #ccc;
+	width: 75%;
+	border-left: none;
+	height: 742px;
+	background-color: rgb(255, 255, 255);
+}
+
+.table thead > tr > th {
+	background-color: #bbc1c6;
+}
+
+.table tbody > tr {
+	font-size: 12px;
+}
+
+.table thead > tr {
+	font-size: 14px;
+}
+
+.title-img {
+	color: blue;
+}
+
+.table-img-index {
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.table-img-index-thuvien td{
+	text-align: center;
+	padding: 10px 30px;
+}

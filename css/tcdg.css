@@ -1,0 +1,239 @@
+
+            #themvaodsm:hover {
+                text-decoration: underline;
+            
+            }
+            .selector {
+                width: 366px;
+            }
+            #selectField {
+                width: 100%;
+                padding: 15px 20px;
+                box-sizing: border-box;
+                background-color: white;
+                border-radius: 4px;
+                height: 37px;
+                margin-top: 10px;
+                border: 2px solid black;
+                margin: 0px;
+                align-items: center;
+                justify-content: space-between;
+                cursor: pointer;
+            }
+            #list {
+                width: 100%;
+                background: white;
+                border-radius: 4px;
+                overflow: hidden;
+                padding: 0px;
+            }
+            #list2 {
+                padding: 0px;
+                margin-top: 10px;
+            }
+
+            .options {
+                width: 100%;
+                padding: 2px 40px;
+                list-style: none;
+                cursor: pointer;
+                box-sizing: border-box;
+                position: relative;
+                height: 37px;
+            }
+            .options:hover { 
+            background-color: #ddd;            
+            }
+            .options img{
+                width: 24px;
+                position: absolute;
+                top: 6px;
+                left: 10px;
+            }
+
+            .options2 {
+                width: 30%;
+                padding: 2px 20px;
+                list-style: none;
+                cursor: pointer;
+                box-sizing: border-box;
+                position: relative;
+                height: 37px;
+                background-color: white;
+                border: 1px solid black;
+                display: inline;
+                margin-left: 7px;
+                border-radius: 4px;
+            }
+            .options2:hover { 
+            background-color: #ddd;            
+            }
+
+            
+            #selectField img{
+                width: 16px;
+                height: 20px;
+                margin-left: 315px; 
+                margin-top: -100px;
+            }
+            #selectField p{
+                margin-top: -13px;
+                margin-left: 25px;
+            }
+            .hide {
+                visibility: hidden;
+            }
+           
+
+            input::-webkit-outer-spin-button,
+            input::-webkit-inner-spin-button {
+              -webkit-appearance: none;
+              margin: 0 }
+
+            /* Firefox */
+            input[type=number] {
+              -moz-appearance: textfield;
+            }
+            a {
+                text-decoration: none;
+                color:  white;
+            }
+            
+            .table_tc {
+                margin-top: 30px;
+            }
+           
+            .my-custom-scrollbar_tc {
+            position: relative;
+            height: 397px;
+            overflow: auto;
+            background-color: white;
+            }
+            .my-custom-scrollbar_dsm {
+            position: relative;
+            height: 299px;
+            overflow: auto;
+            background-color: white;
+            }
+            
+            .table-wrapper-scroll-y {
+            display: block;
+            }
+            
+            h3 {
+                color: blue; 
+                text-align: center;
+                font-weight: bold;
+            }
+
+            header {
+                
+                margin-top: -20px;
+                background-image: url("dhcnhn.jpg");
+            }
+
+            button {
+                background-color: white;
+            }
+
+            article {
+                border-left: 1px solid gray;
+                overflow: hidden;
+                background-color: white;
+                margin-top: 4px;
+            }
+
+            th {
+                border:2px solid black;
+                padding-left: 10px;
+            }
+
+            * {box-sizing: border-box}
+            body {font-family: "Lato", sans-serif;}
+
+            /* Style the tab */
+            .tab {
+                float: left;
+                border: 1px solid #ccc;
+                background-color: #ccccff;
+                width: 25%;
+                height: 650px;
+            }
+            .tab2 {
+            width: 100%;
+            overflow: hidden;
+            border: 1px solid #ccc;
+            background-color: #f1f1f1;
+            }
+          
+            /* Style the buttons inside the tab */
+            .tab button {
+                display: block;
+                background-color: #f1f1f1;;
+                color: black;
+                padding: 3px 16px;
+                width: 100%;
+                border: none;
+                outline: none;
+                text-align: left;
+                cursor: pointer;
+                transition: 0.3s;
+                font-size: 17px;
+                color: blue;
+            }
+            .tab2 button {
+            width: 50%;
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+            font-size: 17px;
+            }
+
+            /* Change background color of buttons on hover */
+            .tab button:hover {
+                background-color: #ddd;
+            }
+            .tab2 button:hover {
+            background-color: #ddd;
+            }
+
+            /* Create an active/current "tab button" class */
+            .tab button.active {
+                background-color: white;
+            }
+            .tab2 button.active_qltk {
+            background-color: white;
+            }
+            
+            /* Style the tab content */
+            .tabcontent {
+                float: left;
+                padding: 0px 12px;
+                border: 1px solid #ccc;
+                width: 75%;
+                border-left: none;
+                height: 622px;
+                background-color: rgb(255, 255, 204);
+            }
+            
+            .table thead > tr > th {
+                background-color: #bbc1c6;
+
+
+            }
+            .table tbody > tr{
+                font-size: 12px;
+            }
+            .table thead > tr{
+                font-size: 14px;
+            }
+            #lbl_upload_img:hover {
+                color: blue;
+            }
+            
+            
+            

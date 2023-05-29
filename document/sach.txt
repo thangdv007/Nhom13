@@ -1,0 +1,10 @@
+1, Giáo trình học, 64, Phạm Văn Ất, Giao thông vận tải, 123000, C++
+2, Chính trị, Pháp luật, 77, Bob Woodward, NXB Lao Động, 47000, 
+3, Tạp chí, 15, Daniel Simon, University of Oklahoma, 35000, 
+4, Tạp chí, 0, Linda Swanson-Davies, Glimmer Train Press (Hoa Kỳ), 20500, 
+5, Giáo trình học, 48, Steven Holzner, McGraw Hill; 1st edition, 75000, 
+6, Văn hóa lịch sử, 994, Phan Kế Bính, NXB Văn học, 99900, 
+7, Sách tham khảo, 498,  Nguyễn Nhất Huy, ĐHQGHN, 50000, 
+8, Chính trị, Pháp luật, 500, Peter Calvocoressi, NXB Lao Động, 85000, 
+9, Tạp chí, 199, Tony Blair, Công An Nhân Dân, 77000, 
+10, Văn hóa lịch sử, 98, Hà Nguyễn, NXB Thông tấn, 62000, 
